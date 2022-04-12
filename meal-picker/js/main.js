@@ -1,15 +1,3 @@
-
-
-// fetch('https://www.themealdb.com/api/json/v1/1/random.php')
-//     .then(res => res.json()) // parse response as JSON
-//     .then(data => {
-//       console.log(data)
-//       document.getElementById('officeExcuse').innerText = data[0].excuse
-//     })
-//     .catch(err => {
-//         console.log(`error ${err}`)
-//     });
-
 document.getElementById('random').addEventListener('click', randomMeal)
 
 function randomMeal() {
