@@ -1,5 +1,5 @@
 # Mini-apps
-![preview](https://user-images.githubusercontent.com/102566661/166566515-01bd5369-7699-4f4a-a510-0aa2f48f81cd.PNG)
+<img src="preview.gif" width="100%" alt="Mini apps preview">
 
 Little apps made from APIs.
 
